@@ -9,72 +9,72 @@ Input [y-axis], [x-axis]
 
 Example:
 
-   Welcome to  TIC TAC TOE 
+      Welcome to  TIC TAC TOE 
 
-   The objective of this game is to place your markings in  
-   a way to form a full horizontal, diagonal, or vertical row.
+      The objective of this game is to place your markings in  
+      a way to form a full horizontal, diagonal, or vertical row.
 
-   To select a position on the board, input:   'ROW', 'COLUMN' 
-   The first row is 0, the first column is 0.
-   
-   Player 1 (The 'X'): Enter name: Ms Cat
-   
-   Player 2 (The 'O'): Enter name: Egg Man
-   
-   [ _ ][ _ ][ _ ]
-   [ _ ][ _ ][ _ ]
-   [ _ ][ _ ][ _ ]
-   
-   --------------
-   TURN 1
-   Enter a move Ms Cat: 1, 1
-   Valid play.
-   
-   [ _ ][ _ ][ _ ]
-   [ _ ][ X ][ _ ]
-   [ _ ][ _ ][ _ ]
-   
-   --------------
-   TURN 2
-   Enter a move Egg Man: 0,0
-   Valid play.
-   
-   [ O ][ _ ][ _ ]
-   [ _ ][ X ][ _ ]
-   [ _ ][ _ ][ _ ]
-   
-   --------------
-   TURN 3
-   Enter a move Ms Cat: 1 ,2
-   Valid play.
-   [ O ][ _ ][ _ ]
-   [ _ ][ X ][ X ]
-   [ _ ][ _ ][ _ ]
+      To select a position on the board, input:   'ROW', 'COLUMN' 
+      The first row is 0, the first column is 0.
 
-   --------------
-   TURN 4
-   Enter a move Egg Man: 1, 32
-   Invalid play, try again
-   
-   TURN 4
-   Enter a move Egg Man: 2, 1
-   Valid play.
+      Player 1 (The 'X'): Enter name: Ms Cat
 
-   [ O ][ _ ][ _ ]
-   [ _ ][ X ][ X ]
-   [ _ ][ O ][ _ ]
-   
-   --------------
-   TURN 5
-   Enter a move Ms Cat: 1,0
-   Valid play.
+      Player 2 (The 'O'): Enter name: Egg Man
 
-   [ O ][ _ ][ _ ]
-   [ X ][ X ][ X ]
-   [ _ ][ O ][ _ ]
-   
-   - Ms Cat has won! -
-   GAME OVER
+      [ _ ][ _ ][ _ ]
+      [ _ ][ _ ][ _ ]
+      [ _ ][ _ ][ _ ]
+
+      --------------
+      TURN 1
+      Enter a move Ms Cat: 1, 1
+      Valid play.
+
+      [ _ ][ _ ][ _ ]
+      [ _ ][ X ][ _ ]
+      [ _ ][ _ ][ _ ]
+
+      --------------
+      TURN 2
+      Enter a move Egg Man: 0,0
+      Valid play.
+
+      [ O ][ _ ][ _ ]
+      [ _ ][ X ][ _ ]
+      [ _ ][ _ ][ _ ]
+
+      --------------
+      TURN 3
+      Enter a move Ms Cat: 1 ,2
+      Valid play.
+      [ O ][ _ ][ _ ]
+      [ _ ][ X ][ X ]
+      [ _ ][ _ ][ _ ]
+
+      --------------
+      TURN 4
+      Enter a move Egg Man: 1, 32
+      Invalid play, try again
+
+      TURN 4
+      Enter a move Egg Man: 2, 1
+      Valid play.
+
+      [ O ][ _ ][ _ ]
+      [ _ ][ X ][ X ]
+      [ _ ][ O ][ _ ]
+
+      --------------
+      TURN 5
+      Enter a move Ms Cat: 1,0
+      Valid play.
+
+      [ O ][ _ ][ _ ]
+      [ X ][ X ][ X ]
+      [ _ ][ O ][ _ ]
+
+      - Ms Cat has won! -
+      GAME OVER
    
 
 Created on September 28, 2017.
