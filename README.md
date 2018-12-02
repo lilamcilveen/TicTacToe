@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic-Tac-Toe
 A 2 player tic tac toe game implemented in java.
 
 Players can play on a 3x3 or 5x5 grid.
