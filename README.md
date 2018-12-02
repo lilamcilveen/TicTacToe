@@ -24,7 +24,7 @@ Example:
       To select a position on the board, input:   'ROW', 'COLUMN' 
       The first row is 0, the first column is 0.
 
-      Player 1 (The 'X'): Enter name: *Ms Cat*
+      Player 1 (The 'X'): Enter name: **Ms Cat**
 
       Player 2 (The 'O'): Enter name: Egg Man
 
