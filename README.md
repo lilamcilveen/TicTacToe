@@ -7,7 +7,6 @@ Players can play on a 3x3 or 5x5 grid.
 
 Inputting a move:
 - [row], [column]
-(in other words, [y-axis, x-axis]
 
 Board layout:
 
