@@ -5,7 +5,14 @@ Players can play on a 3x3 or 5x5 grid.
 - Acceptable command line arguments are "3", "5", "three", "five".
 - A lack of a valid command line argument terminates the program with a usage message.
 
-Input [y-axis], [x-axis]
+Inputting a move:
+- [row], [column]
+(in other words, [y-axis, x-axis]
+
+Board layout: 
+            [ 0,0 ][ 0,1 ][ 0,2 ]
+            [ 1,0 ][ 1,1 ][ 1,2 ]
+            [ 2,1 ][ 2,2 ][ 2,2 ]
 
 Example:
 
